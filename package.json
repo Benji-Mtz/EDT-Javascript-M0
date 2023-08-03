@@ -1,0 +1,19 @@
+{
+  "name": "edt-javascript-m0",
+  "version": "1.0.0",
+  "description": "Lenguaje de programación interpretado y desarrollado por Brendan Eich en 1995, inicialmente llamado mocha, despues livescript y finalmente Javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.45.0",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-n": "^16.0.1",
+    "eslint-plugin-promise": "^6.1.1"
+  }
+}
